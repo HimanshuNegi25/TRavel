@@ -28,7 +28,7 @@ AI-generated day-wise travel plans with activities and hotel suggestions.
 
 ### 📁 My Trips Page
 A dashboard to view, revisit, or manage previously saved trips.
-![My Trips Page](./Screenshots/myTrips.png)
+![My Trips Page](./Screenshots/myTrip.png)
 
 
 <br />
