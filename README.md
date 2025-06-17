@@ -7,16 +7,26 @@ A smart travel itinerary planner that leverages Google’s Gemini AI to generate
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
+A welcoming landing page with app introduction and Google Sign-In.
 ![Home Page](./Screenshots/home.png)
 
-### 📅 Create Trip Page
-![Itinerary](./Screenshots/createTrip.png)
+---
 
-### 📅 Itinerary Page
-![Itinerary](./Screenshots/viewTrips.png)
+### ✍️ Create Trip Page
+Form where users input destination, duration, budget, and interests.
+![Create Trip Page](./Screenshots/createTrip.png)
 
-### 📅 Itinerary Page
-![Itinerary](./Screenshots/myTrips.png)
+---
+
+### 🧳 Itinerary Page
+AI-generated day-wise travel plans with activities and hotel suggestions.
+![Itinerary Page](./Screenshots/viewTrips.png)
+
+---
+
+### 📁 My Trips Page
+A dashboard to view, revisit, or manage previously saved trips.
+![My Trips Page](./Screenshots/myTrips.png)
 
 ---
 
