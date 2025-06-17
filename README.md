@@ -3,7 +3,7 @@
 A smart travel itinerary planner that leverages Google’s Gemini AI to generate personalized, day-wise travel plans based on user preferences. Built with React, Firebase, and Tailwind CSS.
 
 
-
+<br />
 
 
 ## 🖼️ Screenshots
@@ -31,7 +31,7 @@ A dashboard to view, revisit, or manage previously saved trips.
 ![My Trips Page](./Screenshots/myTrips.png)
 
 
-
+<br />
 
 
 ## ✨ Features
@@ -46,7 +46,7 @@ A dashboard to view, revisit, or manage previously saved trips.
 - ☁️ Deployed with Vercel
 
 
-
+<br />
 
 
 ## 🧰 Tech Stack
