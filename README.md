@@ -2,8 +2,6 @@
 
 A smart travel itinerary planner that leverages Google’s Gemini AI to generate personalized, day-wise travel plans based on user preferences. Built with React, Firebase, and Tailwind CSS.
 
-🚀 **Live Demo:** [Coming Soon or Add Link Here]
-
 ---
 
 ## 🖼️ Screenshots
