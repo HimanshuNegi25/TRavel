@@ -2,13 +2,37 @@
 
 A smart travel itinerary planner that leverages Google’s Gemini AI to generate personalized, day-wise travel plans based on user preferences. Built with React, Firebase, and Tailwind CSS.
 
----
+
+<br />
+
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots like homepage, itinerary view, etc. in a `/screenshots` folder and embed them here)*
+### 🏠 Home Page
+A welcoming landing page with app introduction and Google Sign-In.
+![Home Page](./Screenshots/home.png)
 
----
+
+
+### ✍️ Create Trip Page
+Form where users input destination, duration, budget, and interests.
+![Create Trip Page](./Screenshots/createTrip.png)
+
+
+
+### 🧳 Itinerary Page
+AI-generated day-wise travel plans with activities and hotel suggestions.
+![Itinerary Page](./Screenshots/viewTrips.png)
+
+
+
+### 📁 My Trips Page
+A dashboard to view, revisit, or manage previously saved trips.
+![My Trips Page](./Screenshots/myTrips.png)
+
+
+<br />
+
 
 ## ✨ Features
 
@@ -21,7 +45,9 @@ A smart travel itinerary planner that leverages Google’s Gemini AI to generate
 - 🎨 Fully responsive UI using Tailwind CSS
 - ☁️ Deployed with Vercel
 
----
+
+<br />
+
 
 ## 🧰 Tech Stack
 
@@ -29,13 +55,3 @@ A smart travel itinerary planner that leverages Google’s Gemini AI to generate
 - **AI Integration:** Google Gemini API
 - **Backend/Database:** Firebase (Auth + Firestore)
 - **Deployment:** Vercel
-
----
-
-## 🛠️ Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/HimanshuNegi25/TRavel.git
-cd TRavel
-npm install
