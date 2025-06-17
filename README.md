@@ -2,6 +2,8 @@
 
 A smart travel itinerary planner that leverages Google’s Gemini AI to generate personalized, day-wise travel plans based on user preferences. Built with React, Firebase, and Tailwind CSS.
 
+🚀 Live Demo:
+https://t-ravel.vercel.app/
 
 <br />
 
@@ -28,7 +30,7 @@ AI-generated day-wise travel plans with activities and hotel suggestions.
 
 ### 📁 My Trips Page
 A dashboard to view, revisit, or manage previously saved trips.
-![My Trips Page](./Screenshots/myTrip.png)
+![My Trips Page](./Screenshots/trip.png)
 
 
 <br />
@@ -55,3 +57,16 @@ A dashboard to view, revisit, or manage previously saved trips.
 - **AI Integration:** Google Gemini API
 - **Backend/Database:** Firebase (Auth + Firestore)
 - **Deployment:** Vercel
+
+<br />
+
+## Setup .env file
+### :key: Environment Variables
+
+
+```js
+VITE_GOOGLE_PLACES_API_KEY
+VITE_GOOGLE_GEMINI_AI_API_KEY
+VITE_GOOGLE_AUTH_CLIENT_ID
+``` 
+
