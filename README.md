@@ -1,12 +1,43 @@
-# React + Vite
+# 🌍 TRavel – AI-Powered Trip Planner ✈️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A smart travel itinerary planner that leverages Google’s Gemini AI to generate personalized, day-wise travel plans based on user preferences. Built with React, Firebase, and Tailwind CSS.
 
-Currently, two official plugins are available:
+🚀 **Live Demo:** [Coming Soon or Add Link Here]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> *(Add screenshots like homepage, itinerary view, etc. in a `/screenshots` folder and embed them here)*
+
+---
+
+## ✨ Features
+
+- 🔐 Google Sign-In using Firebase Authentication
+- 🗺️ Plan trips by entering destination, duration, budget, and interests
+- 🤖 Uses Gemini AI to generate detailed itineraries
+- 🏨 Shows hotel suggestions and day-wise activities
+- 💾 Save and view past trips via Firebase Firestore
+- 📍 Interactive Google Maps for trip visualization
+- 🎨 Fully responsive UI using Tailwind CSS
+- ☁️ Deployed with Vercel
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend:** React (Vite), Tailwind CSS
+- **AI Integration:** Google Gemini API
+- **Backend/Database:** Firebase (Auth + Firestore)
+- **Deployment:** Vercel
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/HimanshuNegi25/TRavel.git
+cd TRavel
+npm install
