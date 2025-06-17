@@ -12,7 +12,7 @@ function Hero() {
         <Button>Get Started, It's Free</Button>
       </Link>
 
-      <img src="/Mockup.jpeg" className='mt-20 mb-10'/>
+      <img src="/Screenshot.png" className='mt-20 mb-10'/>
     </div>
   )
 }
