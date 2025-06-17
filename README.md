@@ -6,7 +6,17 @@ A smart travel itinerary planner that leverages Google’s Gemini AI to generate
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots like homepage, itinerary view, etc. in a `/screenshots` folder and embed them here)*
+### 🏠 Home Page
+![Home Page](./Screenshots/home.png)
+
+### 📅 Create Trip Page
+![Itinerary](./Screenshots/createTrip.png)
+
+### 📅 Itinerary Page
+![Itinerary](./Screenshots/viewTrips.png)
+
+### 📅 Itinerary Page
+![Itinerary](./Screenshots/myTrips.png)
 
 ---
 
