@@ -12,25 +12,25 @@ https://t-ravel.vercel.app/
 
 ### 🏠 Home Page
 A welcoming landing page with app introduction and Google Sign-In.
-![Home Page](./Screenshots/home.png)
+![Home Page](./public/home.png)
 
 
 
 ### ✍️ Create Trip Page
 Form where users input destination, duration, budget, and interests.
-![Create Trip Page](./Screenshots/createTrip.png)
+![Create Trip Page](./public/createTrip.png)
 
 
 
 ### 🧳 Itinerary Page
 AI-generated day-wise travel plans with activities and hotel suggestions.
-![Itinerary Page](./Screenshots/viewTrips.png)
+![Itinerary Page](./public/viewTrips.png)
 
 
 
 ### 📁 My Trips Page
 A dashboard to view, revisit, or manage previously saved trips.
-![My Trips Page](./Screenshots/trip.png)
+![My Trips Page](./public/trip.png)
 
 
 <br />
